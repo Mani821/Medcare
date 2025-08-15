@@ -141,7 +141,7 @@ class AppThemes extends StateNotifier<ThemeMode> {
           sizeConstraints: BoxConstraints(maxHeight: 40),
           backgroundColor: primaryColor,
           foregroundColor: Colors.white),
-      tabBarTheme: TabBarTheme(
+      tabBarTheme: TabBarThemeData(
         dividerColor: Colors.transparent,
         indicatorColor: primaryColor,
       ),

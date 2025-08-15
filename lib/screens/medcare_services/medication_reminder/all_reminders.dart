@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
-import 'package:medicare/components/buttons/primary_button.dart';
-import 'package:medicare/constants/app_colors.dart';
 
 class AllReminders extends StatelessWidget {
   const AllReminders({super.key});
